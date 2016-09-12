@@ -17,6 +17,16 @@ layout_data:
         and <a href="http://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333">
         Colour Contrast Check Tool</a> are examples of tools available online.
 
+        Avoid the following color combinations, which are especially hard on color blind people: 
+        - Green & Red
+        - Green & Brown
+        - Blue & Purple
+        - Green & Blue
+        - Light Green & Yellow
+        - Blue & Grey
+        - Green & Grey
+        - Green & Black
+
         For the two house icons below, the color contrast has been calculated
         using the Colour Contrast Analyser. For your exercise below, please use the
         <a href="http://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333">
